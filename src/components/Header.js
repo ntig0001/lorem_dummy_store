@@ -23,7 +23,7 @@ const Header = ({size, setIsHome}) => {
             <Navbar>
                 <Container className="container-b">
                     <div>
-                        <p className="fw-light">Thanks for checking us out. You are on the Lorem Dummy Store Tech closet!</p>
+                        <p className="fw-light">Thanks for checking us out. You are right in the Lorem dummy Tech closet!</p>
                     </div>
                     <div>
                         <Nav.Link onClick={() => setIsHome(false)}>
